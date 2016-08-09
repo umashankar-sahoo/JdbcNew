@@ -2,8 +2,6 @@ create database SqlServerDB;
 
 Use SQLSERVERDB;
 
---TESTING GIT
-
 create table Users(
   id  int primary key,
   name varchar(20),
